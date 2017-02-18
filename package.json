@@ -1,0 +1,32 @@
+{
+  "author": {
+    "email": "prabodhtiwari@outlook.com",
+    "name": "Prabodh Tiwari"
+  },
+  "bugs": {
+    "url": "https://github.com/prabodhtiwari/browser-details/issues"
+  },
+  "contributors": [],
+  "dependencies": {
+    "fs-promise": "^2.0.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "description": "a Javascript library to get AccessToken, RefreshToken form AuthToken, refresh AccessToken and getting user data from AccessToken",
+  "directories": {
+    "test": "test"
+  },
+  "homepage": "https://github.com/prabodhtiwari/browser-details",
+  "keywords": [
+    "Node js",
+    "googleapis",
+    "accessToken",
+    "refreshToken",
+    "User Details"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [],
+  "name": "oauth2WebServer",
+  "version": "0.0.1"
+}

@@ -26,7 +26,7 @@ const tokens = await api.getTokens(file,code)
 const refreshedToken = await api.refreshToken(file,tokens.refresh_token)
                         .catch(err => console.log(err))
 
-api.scopeData(scope, accessToken)
+api.scopeData(scope, tokens.accessToken)
     .then(data => console.log(data))
     .catch(err => console.log(err))
 

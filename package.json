@@ -4,7 +4,7 @@
     "name": "Prabodh Tiwari"
   },
   "bugs": {
-    "url": "https://github.com/prabodhtiwari/browser-details/issues"
+    "url": "https://github.com/prabodhtiwari/node-googleapis/issues"
   },
   "contributors": [],
   "dependencies": {
@@ -16,7 +16,7 @@
   "directories": {
     "test": "test"
   },
-  "homepage": "https://github.com/prabodhtiwari/browser-details",
+  "homepage": "https://github.com/prabodhtiwari/node-googleapis",
   "keywords": [
     "Node js",
     "googleapis",
@@ -27,6 +27,6 @@
   "license": "MIT",
   "main": "index.js",
   "maintainers": [],
-  "name": "oauth2WebServer",
+  "name": "node-googleapis",
   "version": "0.0.1"
 }

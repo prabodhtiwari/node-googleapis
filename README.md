@@ -26,7 +26,7 @@ api.getTokens(auth_token)
 .then(tokens =>  console.log(tokens)) // refresh_token, access_token
 .catch(err => console.log(err))
 
-api.refreshToken(file,tokens.refresh_token)
+api.refreshToken(tokens.refresh_token)
 .then(tokens => console.log(tokens)) // new access_token
 .catch(err => console.log(err))
 

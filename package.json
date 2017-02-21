@@ -28,5 +28,5 @@
   "main": "index.js",
   "maintainers": [],
   "name": "node-googleapis",
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
